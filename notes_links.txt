@@ -1,0 +1,4 @@
+https://stefan.sofa-rockers.org/2020/05/29/attrs-dataclasses-pydantic/
+https://levelup.gitconnected.com/python-dataclass-vs-attrs-vs-pydantic-defining-a-class-9155d25b911b
+https://pythonislove.com/comparative-analysis-of-dataclasses-attrs-and-pydantic
+https://testdriven.io/blog/django-and-pydantic/
